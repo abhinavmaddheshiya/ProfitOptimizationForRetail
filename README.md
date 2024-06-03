@@ -1,2 +1,0 @@
-# ProfitOptimizationForRetail
-ARIMA
