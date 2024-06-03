@@ -1,9 +1,9 @@
-**Live version available here:**  [https://karoronty.shinyapps.io/SalesIntelligence/](https://karoronty.shinyapps.io/SalesIntelligence/)
+**Live version available here:**  [https://karoronty.shinyapps.io/SalesIntelligence?ProfitOptimization](https://karoronty.shinyapps.io/SalesIntelligence?ProfitOptimizationForRetail)
 
 ![ui](https://github.com/aleksejhoffaerber/SalesIntelligence/blob/master/ui_screenshot.png)
 
 ## Goal
-The goal of “Sales Intelligence” is to apply product classification, forecasting, and revenue optimization for the next month ahead to maximize revenue. The end goal is to build interactive visualizations in a dashboard that appear natural to non-technical business end users.
+The goal of “ProfitOptimization” is to apply product classification, forecasting, and revenue optimization for the next month ahead to maximize revenue. The end goal is to build interactive visualizations in a dashboard that appear natural to non-technical business end users.
 
 What makes this project unique in addition to adding optimization is the access to price data: usually, modern data sets from online retailers that are only available for confidential use include more predictors, especially on marketing, sales campaigns, inventory levels etc. In this project, the goal is to fulfill the listed guidelines based on the predictor limitation but still creating accurate product profiles to identify revenue optimization potential.
 
